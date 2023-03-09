@@ -1,0 +1,7 @@
+moviepy
+SpeechRecognition
+pytube or pytube3
+googletrans
+gTTS
+os-sys
+regex
